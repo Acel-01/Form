@@ -1,0 +1,21 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: blueviolet;
+    margin-top: 200px;
+    color: white;
+    text-align: center;
+    margin-top:  75%;
+ }
+
+ 
+ @media only screen and (min-width: 420px){
+     .ttt{
+         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         background-color: blueviolet;
+         margin-top: 5px; 
+         color: white;
+         text-align: center;
+         margin-top: 20%;
+      }
+     
+ }
